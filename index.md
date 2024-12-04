@@ -28,7 +28,19 @@ Option B) A speaker will present their own work to the group (length flexible, m
 
 ### Organizers 
 
+David Hamelin
+
+Cantin Baron
+
+Joseph Viviano
+
+
+### Past Organizers
+
 Matt Scicluna 
 
 Marc-Andre Legault
 
+Natasha Dudek
+
+Camille Rochefort-Boulanger
