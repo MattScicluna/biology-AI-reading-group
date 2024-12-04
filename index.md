@@ -44,3 +44,5 @@ Marc-Andre Legault
 Natasha Dudek
 
 Camille Rochefort-Boulanger
+
+Alexis Nolin Lapalme
