@@ -9,6 +9,7 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Talk Title | Suggested Readings and Recording (if available)
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+25/01/2024 | Matt Scicluna | University of Montreal, Mila | Phantom oscillations in principal component analysis | [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
 30/11/2023 | David Hamelin | University of Montreal, Mila | Learning from prepandemic data to forecast viral escape | [Learning from prepandemic data to forecast viral escape](https://www.nature.com/articles/s41586-023-06617-0)
 16/11/2023 | Joseph Viviano | Mila | DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets | [DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets](https://arxiv.org/abs/2302.04178)
 2/11/2023 | Alexis Nolin Lapalme | University of Montreal, Mila | HyenaDNA | [HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution](https://arxiv.org/abs/2306.15794)
