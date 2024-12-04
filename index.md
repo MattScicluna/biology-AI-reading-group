@@ -8,7 +8,7 @@ Our scope does not typically include medical or neuroscience related papers (see
 
 ### When and how we meet
 
-During Fall 2022, we are remote, and are using Blue Jeans.
+Meetings are Hybrid: using Zoom and in-person at Mila
 
 We meet once every two weeks, usually from 3-4 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 3 pm sharp.
 
