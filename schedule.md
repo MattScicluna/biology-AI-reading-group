@@ -9,7 +9,8 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Talk Title | Suggested Readings and Recording (if available)
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-
+30/11/2023 | David Hamelin | University of Montreal, Mila | Learning from prepandemic data to forecast viral escape | [Learning from prepandemic data to forecast viral escape](https://www.nature.com/articles/s41586-023-06617-0)
+16/11/2023 | Joseph Viviano | Mila | DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets | [DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets](https://arxiv.org/abs/2302.04178)
 2/11/2023 | Alexis Nolin Lapalme | University of Montreal, Mila | HyenaDNA | [HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution](https://arxiv.org/abs/2306.15794)
 22/06/2023 | Stefan Bauer | TU Munich | Causal Experimental Design | [Interventions, Where and How? Experimental Design for Causal Models at Scale](https://arxiv.org/abs/2203.02016), [Trust Your ∇: Gradient-based Intervention Targeting for Causal Discovery](https://arxiv.org/abs/2211.13715)
 31/05/2023 | Zeev Russak | Infiniplex | Monitoring Cancer Patients Using Liquid Biopsy and High-Multiplex qPCR | [A Basic Guide to Real Time PCR in Microbial Diagnostics](https://www.frontiersin.org/articles/10.3389/fmicb.2017.00108), [Sensitivity, specificity, and accuracy of a liquid biopsy approach utilizing molecular amplification pools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144209/), [UNAFold: software for nucleic acid folding and hybridization](https://pubmed.ncbi.nlm.nih.gov/18712296/) 
